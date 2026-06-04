@@ -2,7 +2,7 @@
 
 **Stanford MS Statistics** (2026–2028) · **UC Berkeley BA Statistics** (2024–2026, 2 years) · GPA 3.95
 
-I work on applied statistics and machine learning problems — building models that extract structured signal from messy, high-dimensional data. My background spans research (Whitney Lab at UC Berkeley), sports analytics, and probability theory. Currently at Stanford studying statistical learning and stochastic processes.
+I work on applied statistics and machine learning problems, building models that extract structured signal from messy, high-dimensional data. My background spans research (Whitney Lab at UC Berkeley), sports analytics, and probability theory. Currently at Stanford studying statistical learning, machine learning, and stochastic processes.
 
 ---
 
